@@ -185,7 +185,17 @@ main .card-body p , main .card-body a{
     display: flex;
 justify-content: center;
 align-items: center;
+
+
   
+ }
+ 
+ .instructor .g-num{
+    margin: 20px auto !important;
+ }
+
+ .instructor .g-num div{
+    margin: 0 40px !important;
  }
 
  .instructor .l-side{
